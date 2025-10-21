@@ -1,18 +1,6 @@
 "Hello World", Je m'appelle _Richard_ **François**, j'ai 43 ans, j'habite à _Longvic_ près de **Dijon**
 Ma devise ***le gras c'est la vie***
-
-## un peu plus sur moi ##
-
-Je pratique le Handball et le crossfit pour me **défouler** et libérer mon _espit_
-J'aime passer mes journées avec de la **musique**, parler avec des _dialogues cultes_ de films et de série.
-Les sorties entre amis sont également **importantes** pour moi, les _liens sociaux_ sont primordiaux pour moi.
-
-### le pourquoi du comment
-
-J'étais géotechnicien dans le btp jusqu'en mars et J'ai décidé de faire cette formation de **développeur web** pour me reconvertir dans un métier qui me permettra d'avoir un travail en _équipe_ et à la fois _solitaire_ et qui sera beaucoup plus **structuré** comme à mes débuts lorsque j'étais enseignant de la conduite. partir de zéro pour arriver à un résultat final.
-
-_Dijon_ est le chef lieu de la [[cote-dor]] et la capitale de la [[bourgogne]] (n'en déplaise aux Francs-comtois).
-Dijon est première des grandes villes au classement "ville de rêve" [Dijon].(https://jaimedijon.com/dijon-ville-de-reve-0125/)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaamelott-gifboard.fr%2Fgif%2Fle-gras-c-est-la-vie&psig=AOvVaw3rShWjwcmFTVALyUMOAFdp&ust=1761142931776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj99-i-tZADFQAAAAAdAAAAABAE))
 Ville touristique célébre pour sa chouette porte-bonheur ![chouette](https://storage.canalblog.com/09/18/137895/57051958.jpg),
 et son ours pompon ![ours pompon](https://cdn-s-www.bienpublic.com/images/D2958431-FFF0-4D84-BE4C-DC1F09429D1F/NW_raw/cette-copie-de-l-ours-blanc-sculpte-par-francois-pompon-accueille-les-visiteurs-du-jardin-darcy-a-dijon-l-animal-est-un-des-emblemes-de-la-ville-photo-archives-lbp-s-d-1560589875.jpg).
 Elle est également une ville historique avec ses Ducs de Bourgogne : Philippe **le Hardi**, Jean **sans peur**, Philippe **le Bon** et Charles **le Téméraire**
