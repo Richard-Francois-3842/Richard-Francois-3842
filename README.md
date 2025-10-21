@@ -1,6 +1,6 @@
 "Hello World", Je m'appelle _Richard_ **François**, j'ai 43 ans, j'habite à _Longvic_ près de **Dijon**
 Ma devise ***le gras c'est la vie***
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaamelott-gifboard.fr%2Fgif%2Fle-gras-c-est-la-vie&psig=AOvVaw3rShWjwcmFTVALyUMOAFdp&ust=1761142931776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj99-i-tZADFQAAAAAdAAAAABAE))
+![Karadoc](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaamelott-gifboard.fr%2Fgif%2Fle-gras-c-est-la-vie&psig=AOvVaw3rShWjwcmFTVALyUMOAFdp&ust=1761142931776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj99-i-tZADFQAAAAAdAAAAABAE))
 Ville touristique célébre pour sa chouette porte-bonheur ![chouette](https://storage.canalblog.com/09/18/137895/57051958.jpg),
 et son ours pompon ![ours pompon](https://cdn-s-www.bienpublic.com/images/D2958431-FFF0-4D84-BE4C-DC1F09429D1F/NW_raw/cette-copie-de-l-ours-blanc-sculpte-par-francois-pompon-accueille-les-visiteurs-du-jardin-darcy-a-dijon-l-animal-est-un-des-emblemes-de-la-ville-photo-archives-lbp-s-d-1560589875.jpg).
 Elle est également une ville historique avec ses Ducs de Bourgogne : Philippe **le Hardi**, Jean **sans peur**, Philippe **le Bon** et Charles **le Téméraire**
