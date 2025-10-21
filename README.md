@@ -1,5 +1,4 @@
-"Hello World", Je m'appelle _Richard_ **François**, j'ai 43 ans, j'habite à _Longvic_ près de **Dijon** 
-Ma devise ***le gras c'est la vie***
+"Hello World", Je m'appelle _Richard_ **François**, j'ai 43 ans, j'habite à _Longvic_ près de **Dijon**  Ma devise ***le gras c'est la vie***
 
 ![le gras c'est la vie](https://kaamelott-gifboard.fr/gifs/le-gras-cest-la-vie.gif)
 
