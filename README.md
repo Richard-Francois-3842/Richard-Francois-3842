@@ -4,7 +4,7 @@ Ma devise :
 
 ![le gras c'est la vie](https://kaamelott-gifboard.fr/gifs/le-gras-cest-la-vie.gif)
 
-<h1 align="center">"Bonjour word" 👋, je suis Richard</h1>
+<h1 align="center">"Bonjour world" 👋, je suis Richard</h1>
 <h3 align="center">Développeur full stack</h3>
 
 - 📫 Comment me contacter **richard.francois.038@gmail.com**
