@@ -1,19 +1,21 @@
-"Hello World", Je m'appelle _Richard_ **François**, j'ai 43 ans, j'habite à _Longvic_ près de **Dijon**
+"Hello World", Je m'appelle _Richard_ **François**, jeune développeur de 43 ans.
 
 Ma devise :
 
 ![le gras c'est la vie](https://kaamelott-gifboard.fr/gifs/le-gras-cest-la-vie.gif)
 
+<h1 align="center">"Bonjour word" 👋, je suis Richard</h1>
+<h3 align="center">Développeur full stack</h3>
+
+- 📫 Comment me contacter **richard.francois.038@gmail.com**
+
+<h3 align="left">Contactez-moi :</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Langues et outils :</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
 
 
-La Côte-D'Or tient son nom des vignobles qui en automne arborent des 
-feuillages de **couleur or**. Ce nom viendrait également du diminutif de **Côte-d'Orient** du fait que les pentes sur lesquelles poussent les vignes sont principalement orientées vers l'est.
-![vignes](https://www.lacotedorjadore.com/uploads/external/ace348299bb1d31894afe20ff342fe5a-vignobles-aloxe-corton-bfct-alain-doire-890x0-5b4c53c8ac6300be2fa9fd5f5ef4c78a.jpg)
-La Côte-D'Or est également connue pour sa ***route des grands crus*** qui traverse des villages comme *Gevrey-Chambertin*, *Nuit-Saint-Georges* ou *Vosne-Romanée* 
-pour passer par Beaune et ses hospices qui ont vu le tournage du film **La grande vadrouille**. ![hospices](https://musee.hospices-de-beaune.com/themes/hospices/images/bg_musee.jpg)
 
-La **Bourgogne** ,en plus de ses vins, est connue pour sa gastronomie comme le fameux ***boeuf bourguingon*** dont je vous partage une recette [boeuf bourguignon](https://www.marmiton.org/recettes/recette_boeuf-bourguignon_18889.aspx) 
-mais aussi pour ses fromages comme l'époisse élu meilleur fromage du monde en 2023 ![époisse](https://www.koikispass.com/wp-content/uploads/2023/12/Design-sans-titre-10.png)
-Il y a également de belles balades à faire que ce soit en vélo ou en bateau sur le *canal de Bourgogne* ou découvrir la source de la Seine ![canal](https://www.safrantours.com/application/files/8715/1489/0936/Safrantours_velo_Bourgogne_2.jpg)
 
-Bref que vous choisissiez *Dijon*, la *Côte-D'Or ou la *Bourgogne* pour votre prochaine visite touristique, vous aurez de quoi faire.
